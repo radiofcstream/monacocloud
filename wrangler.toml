@@ -1,0 +1,11 @@
+name = "monaco-987"
+pages_build_output_dir = "."
+compatibility_date = "2026-11-18"
+
+[[kv_namespaces]]
+binding = "MONACO_NEWS"
+id = "REEMPLAZAR_CON_ID_DE_KV"
+
+[[r2_buckets]]
+binding = "MONACO_IMAGES"
+bucket_name = "monaco-images"
