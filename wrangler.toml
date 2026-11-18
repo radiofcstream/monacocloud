@@ -4,7 +4,7 @@ compatibility_date = "2026-11-18"
 
 [[kv_namespaces]]
 binding = "MONACO_NEWS"
-id = "REEMPLAZAR_CON_ID_DE_KV"
+id = "PEGAR_AQUI_EL_ID_REAL"
 
 [[r2_buckets]]
 binding = "MONACO_IMAGES"
